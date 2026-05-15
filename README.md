@@ -1,13 +1,5 @@
 <h1> Dominate A.I. - The world's best Open Source CRM for High Ticket B2B Sales - </h1>
 <h2> [Visit Website](https://dominateai.github.io/dominate-landing-page-website/) </h2>
-<p>
-	
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/dominate-ai/?viewAsMember=true)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dominate.ai/?hl=en)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-	
-</p>
 
 <h3> Technologies Used </h3>
 
