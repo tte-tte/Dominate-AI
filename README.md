@@ -246,7 +246,7 @@ To initialize the database:
 1.  Ensure Redis and MongoDB are running in the background.
 
 2.  Clone the repository:
-``git clone https://github.com/DominateAi/Dominate-AI.git``
+``git clone https://github.com/TomoeGozen82/Dominate-AI.git``
 
 3. Navigate to the frontend folder and install dependencies:
 ``npm install``
